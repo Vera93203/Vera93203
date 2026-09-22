@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Phone Myat Min — Full Stack Developer. Interfaces. Systems. Experiments.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1524"/><stop offset="1" stop-color="#19172e"/></linearGradient><linearGradient id="line"><stop stop-color="#79f5ca"/><stop offset="1" stop-color="#aa95ff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1280" height="440" rx="24" fill="url(#bg)"/><rect width="1280" height="440" rx="24" fill="url(#grid)"/>
+<g fill="none" stroke="#aa95ff"><circle cx="1080" cy="210" r="175" opacity=".17"/><circle cx="1080" cy="210" r="130" opacity=".23"/><ellipse cx="1080" cy="210" rx="185" ry="65" transform="rotate(-35 1080 210)" opacity=".6"/></g><circle cx="1194" cy="108" r="7" fill="#79f5ca"/>
+<text x="68" y="70" fill="#79f5ca" font-family="monospace" font-size="16" letter-spacing="3">PMM / DEVELOPER PORTFOLIO</text>
+<text x="68" y="161" fill="#f0f3ff" font-family="Arial, sans-serif" font-weight="700" font-size="66" letter-spacing="-2">Phone Myat Min<tspan fill="#79f5ca">.</tspan></text>
+<text x="71" y="212" fill="#b7bbd1" font-family="Arial, sans-serif" font-size="27">Full Stack Developer</text>
+<path d="M70 253H694" stroke="url(#line)" stroke-width="2"/>
+<text x="71" y="301" fill="#e2e6f3" font-family="Arial, sans-serif" font-size="24">Interfaces. Systems. Experiments.</text>
+<text x="71" y="372" fill="#8e99b0" font-family="monospace" font-size="15" letter-spacing="1">WEB DEVELOPMENT  /  PYTHON  /  CREATIVE CODE</text>
+<text x="980" y="237" fill="#79f5ca" font-family="monospace" font-size="74" letter-spacing="-8">&lt;/&gt;</text>
+</svg>
