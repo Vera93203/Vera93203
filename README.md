@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Vera93203?tab=repositories">Explore my repositories</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Vera93203/3D_Portfolio">Visit my 3D portfolio code</a>
+  <a href="https://github.com/Vera93203/full-stack-e-commerce-platform">Explore my e-commerce project</a>
 </p>
 
 ### A little about me
 
-Hi, I'm **Phone Myat Min** — a full-stack developer. My projects span web development, Python, travel tools, and a 3D portfolio. This is where I share what I build and explore ideas through code.
+Hi, I'm **Phone Myat Min** — a full-stack developer. My projects span analytics dashboards, developer tools, e-commerce, and API development. This is where I share what I build and explore ideas through code.
 
 **Languages across my projects** &nbsp; `JavaScript` · `TypeScript` · `Python` · `CSS`
 
@@ -15,12 +15,12 @@ Hi, I'm **Phone Myat Min** — a full-stack developer. My projects span web deve
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/Vera93203/3D_Portfolio"><img src="./3d-portfolio.svg" width="100%" alt="3D Portfolio: Exploring the web in another dimension. View source code." /></a></td>
-<td width="50%"><a href="https://github.com/Vera93203/Weatherwise-Fare-Predictor"><img src="./weatherwise.svg" width="100%" alt="Weatherwise Fare Predictor: Weather and fare insights for travel planning. View source code." /></a></td>
+<td width="50%"><a href="https://github.com/Vera93203/analytics-monitoring-dashboard"><img src="./analytics-monitoring-dashboard.svg" width="100%" alt="Analytics Monitoring: Dashboard View source code." /></a></td>
+<td width="50%"><a href="https://github.com/Vera93203/envault-sandbox"><img src="./envault-sandbox.svg" width="100%" alt="Envault Sandbox: A space for development experiments. View source code." /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Vera93203/HousePricePrediction"><img src="./house-prices.svg" width="100%" alt="House Price Prediction: A Python project focused on house prices. View source code." /></a></td>
-<td width="50%"><a href="https://github.com/Vera93203/PhoneMyatMin-Portfolio"><img src="./portfolio.svg" width="100%" alt="Personal Portfolio: A home for my work on the web. View source code." /></a></td>
+<td width="50%"><a href="https://github.com/Vera93203/full-stack-e-commerce-platform"><img src="./full-stack-e-commerce-platform.svg" width="100%" alt="E-commerce Platform: Full-stack commerce, built with TypeScript. View source code." /></a></td>
+<td width="50%"><a href="https://github.com/Vera93203/rest-api-studio-docs"><img src="./rest-api-studio-docs.svg" width="100%" alt="REST API Studio Docs: Explore the REST API Studio project. View source code." /></a></td>
 </tr>
 </table>
 
